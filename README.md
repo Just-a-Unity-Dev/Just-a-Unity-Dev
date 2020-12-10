@@ -5,3 +5,11 @@
 
 
 [<img src="cool.png" width="50"/>](https://steamcommunity.com/id/imc0rrupted)
+
+
+Langs I use
+[<img src="html5.png" width="50"/>](https://www.w3.org/html/)
+[<img src="js.png" width="50"/>](https://www.npmjs.com/get-npm)
+[<img src="java.png" width="50"/>](https://www.java.com/en/)
+[<img src="python.png" width="50"/>](https://www.python.org/)
+[<img src="1200px-C_Sharp_logo.svg.png.png" width="50"/>](https://www.python.org/)

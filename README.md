@@ -10,7 +10,7 @@ just a random person who loves esolangs and programming
 
 [<img src="cool.png" width="50"/>](https://steamcommunity.com/id/imc0rrupted)
 
-##### Langs I use
+### Langs I use
 
 [<img src="html5.png" width="50"/>](https://www.w3.org/html/)
 [<img src="js.png" width="50"/>](https://www.npmjs.com/get-npm)

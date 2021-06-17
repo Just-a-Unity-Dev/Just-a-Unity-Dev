@@ -7,19 +7,27 @@ i do a random blog where i try and learn programming language
 section for lang
 ### main
 python
+
 javascript
+
 C#
+
 brainf**k
 
 ### conquering
 go
+
 kotlin
+
 esolangs
+
 C & C++
 
 ### to conquer
 typescript
+
 cobol
+
 rust
 
 ## card men

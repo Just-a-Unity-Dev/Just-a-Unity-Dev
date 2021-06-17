@@ -6,29 +6,21 @@ i do a random blog where i try and learn programming language
 ## langs
 section for lang
 ### main
-python
-
-javascript
-
-C#
-
-brainf**k
+-python
+-javascript
+-C#
+-brainf**k
 
 ### conquering
-go
-
-kotlin
-
-esolangs
-
-C & C++
+-go
+-kotlin
+-esolangs
+-C & C++
 
 ### to conquer
-typescript
-
-cobol
-
-rust
+-typescript
+-cobol
+-rust
 
 ## card men
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Just-a-Unity-Dev&show_icons=true&theme=radical)](https://github.com/Just-a-Unity-Dev/kmxc56)

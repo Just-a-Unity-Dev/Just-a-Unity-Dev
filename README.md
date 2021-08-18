@@ -5,21 +5,13 @@ i do a random blog where i try and learn programming language
 
 ## langs
 section for lang
-### main
-- python
+### most used to least used (not including forks)
 - javascript
-- C#
-
-### conquering
-- go
-- kotlin
-- esolangs
-- C & C++
-
-### to conquer
 - typescript
-- cobol
-- rust
+- html
+- sass (scss)
+- python
+- C#
 
 ## card men
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Just-a-Unity-Dev&show_icons=true&theme=radical)](https://github.com/Just-a-Unity-Dev/kmxc56)

@@ -17,6 +17,6 @@ if you're here, you visited my profile for one of the following reasons
 </details>
 
 <details>
-  <summary>[<img src="cool.png" width="50"/>](https://steamcommunity.com/id/imc0rrupted)</summary>
+  <summary>[<img src="cool.png" width="50"/>]</summary>
   [direct](https://steamcommunity.com/id/imc0rrupted))
 </details>

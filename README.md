@@ -1,24 +1,20 @@
 # welcome to my profile
 
-just a random person who loves esolangs and programming
-i do a random blog where i try and learn programming language
+just a random programmer who enjoys modding games and making them too
 
-## langs
-section for lang
-### most used to least used (not including forks)
-- javascript
-- typescript
-- html
-- sass (scss)
-- python
-- C#
+if you're here, you visited my profile for one of the following reasons
+- you stumbled onto my profile
+- you're an old TCD/programmer friend that i forgot
+- you're a modder wanting to see my stuff
+- you're a player who needs mods but doesn't have steam
 
-## card men
-[![My Stats](https://github-readme-stats.vercel.app/api?username=Just-a-Unity-Dev&show_icons=true&theme=radical)](https://github.com/Just-a-Unity-Dev/kmxc56)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-a-Unity-Dev&layout=compact&theme=radical)](https://github.com/Just-a-Unity-Dev/kmxc56)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Just-a-Unity-Dev&repo=kmxc56&theme=radical)](https://github.com/Just-a-Unity-Dev/kmxc56)
-[![Wishlist NOW](https://i.imgur.com/WnSCBeY.png)](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/)
+<details>
+  <summary>custom visit reasons</summary>
+  
+  - you're a friend of mine needing to see unity code
+  - be sure to send me custom reasons
+  
+</details>
 
 ## MEDIA
 [<img src="cool.png" width="50"/>](https://steamcommunity.com/id/imc0rrupted)
-[<img src="849484_reddit_512x512.png" width="50"/>](https://www.reddit.com/user/iamcursedwithimages)

@@ -1,22 +1,10 @@
-# welcome to my profile
+# hi i'm eclips_e (jauv, just-a-unity-dev)
+nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm currently studying and (for now) only do programming as a hobby
 
-just a random programmer who enjoys modding games and making them too
+# let's play [Achi](https://www.youtube.com/watch?v=DU_j_ivk0aA)
+it is currently the **Red (A)** team's turn
 
-if you're here, you visited my profile for one of the following reasons
-- you stumbled onto my profile
-- you're an old TCD/programmer friend that i forgot
-- you're a modder wanting to see my stuff
-- you're a player who needs mods but doesn't have steam
-
-<details>
-  <summary>custom visit reasons</summary>
-  
-  - you're a friend of mine needing to see unity code
-  - be sure to send me custom reasons
-  
-</details>
-
-<details>
-  <summary><img src="cool.png" width="50"/></summary>
-  (direct)[https://steamcommunity.com/id/imc0rrupted)]
-</details>
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |

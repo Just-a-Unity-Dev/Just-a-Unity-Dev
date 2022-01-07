@@ -1,10 +1,19 @@
+name: Achi Game
 
 on:
   issues:
     types: [opened]
     
 jobs:
-  move:
-    runs-on: ubuntu-latest
+  place:
+    name: Place a counter
+    runs-on: alpine-latest
     if: startsWith(github.event.issue.title, "achi|move|")
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      
+      - name: Run Python File
+        run: python ./update_game.py
+        shell: bash
     

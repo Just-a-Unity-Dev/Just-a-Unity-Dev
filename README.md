@@ -8,3 +8,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 |none atm|horror game| schem cell | eclipse website
 |--------|-----------| neothereum | ---------------|
 |--------|-----------| readme.md game|---------------|
+
+# let's play [Achi](https://www.youtube.com/watch?v=DU_j_ivk0aA)
+it is currently the **Red (A)** team's turn
+
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |

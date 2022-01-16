@@ -9,10 +9,6 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 |--------|-----------| neothereum | ---------------|
 |--------|-----------| readme.md game|---------------|
 
-# let's play [Achi](https://www.youtube.com/watch?v=DU_j_ivk0aA)
-it is currently the **Red (A)** team's turn
-
-| 1 | 2 | 3 |
-|---|---|---|
-| 4 | 5 | 6 |
-| 7 | 8 | 9 |
+# git activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

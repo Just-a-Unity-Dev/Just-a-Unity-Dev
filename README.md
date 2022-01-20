@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/5) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-2. ❗️ Opened issue [#5](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/5) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-3. 🗣 Commented on [#4](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/4) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-4. 🗣 Commented on [#881](https://github.com/tModLoader/tModLoader/issues/881) in [tModLoader/tModLoader](https://github.com/tModLoader/tModLoader)
-5. 🗣 Commented on [#17](https://github.com/GDColon/GD-Randomizer/issues/17) in [GDColon/GD-Randomizer](https://github.com/GDColon/GD-Randomizer)
+1. ❌ Closed PR [#1](https://github.com/Rstar284/rpaste/pull/1) in [Rstar284/rpaste](https://github.com/Rstar284/rpaste)
+2. 💪 Opened PR [#1](https://github.com/Rstar284/rpaste/pull/1) in [Rstar284/rpaste](https://github.com/Rstar284/rpaste)
+3. ❗️ Closed issue [#5](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/5) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
+4. ❗️ Opened issue [#5](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/5) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
+5. 🗣 Commented on [#4](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/4) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
 <!--END_SECTION:activity-->
 
 ## stuff i use

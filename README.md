@@ -13,7 +13,7 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 5. 💪 Opened PR [#1](https://github.com/Rstar284/rpaste/pull/1) in [Rstar284/rpaste](https://github.com/Rstar284/rpaste)
 <!--END_SECTION:activity-->
 
-## stuff i use
+## other stuff
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

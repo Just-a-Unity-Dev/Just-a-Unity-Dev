@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/EclipseLikesSpace/REJscript/pull/1) in [EclipseLikesSpace/REJscript](https://github.com/EclipseLikesSpace/REJscript)
-2. 🎉 Merged PR [#7](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/pull/7) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-3. ❌ Reopened PR [#7](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/pull/7) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-4. ❌ Closed PR [#7](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/pull/7) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-5. 💪 Opened PR [#7](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/pull/7) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
+1. ❌ Closed PR [#2](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/2) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+2. 🗣 Commented on [#2](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/2) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+3. 🎉 Merged PR [#1](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/1) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+4. 🗣 Commented on [#1](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/1) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+5. ❌ Closed PR [#1](https://github.com/EclipseLikesSpace/REJscript/pull/1) in [EclipseLikesSpace/REJscript](https://github.com/EclipseLikesSpace/REJscript)
 <!--END_SECTION:activity-->
 
 ## other stuff

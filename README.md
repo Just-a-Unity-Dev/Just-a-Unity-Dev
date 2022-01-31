@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/9) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-2. ❗️ Opened issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-3. 🗣 Commented on [#4](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/4) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-4. ❗️ Closed issue [#4](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/4) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-5. ❗️ Closed issue [#5](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/5) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+1. 🎉 Merged PR [#10](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/10) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+2. 🎉 Merged PR [#9](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/9) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+3. ❗️ Opened issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+4. 🗣 Commented on [#4](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/4) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+5. ❗️ Closed issue [#4](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/4) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
 <!--END_SECTION:activity-->
 
 ## other stuff

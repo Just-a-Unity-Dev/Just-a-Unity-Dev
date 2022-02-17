@@ -6,8 +6,8 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/11) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-2. 🗣 Commented on [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+1. 🎉 Merged PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
+2. 💪 Opened PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
 3. 🎉 Merged PR [#10](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/10) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
 4. 🎉 Merged PR [#9](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/pull/9) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
 5. ❗️ Opened issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)

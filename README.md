@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/JERScript/JERscript/pull/2) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
-2. 💪 Opened PR [#2](https://github.com/JERScript/JERscript/pull/2) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
-3. 🎉 Merged PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
-4. 💪 Opened PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
-5. ❗️ Opened issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+1. 🎉 Merged PR [#3](https://github.com/JERScript/JERscript/pull/3) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
+2. 🎉 Merged PR [#2](https://github.com/JERScript/JERscript/pull/2) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
+3. 💪 Opened PR [#2](https://github.com/JERScript/JERscript/pull/2) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
+4. 🎉 Merged PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
+5. 💪 Opened PR [#1](https://github.com/JERScript/JERscript/pull/1) in [JERScript/JERscript](https://github.com/JERScript/JERscript)
 <!--END_SECTION:activity-->
 
 ## other stuff

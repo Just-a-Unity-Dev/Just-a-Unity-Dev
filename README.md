@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-2. 🗣 Commented on [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-3. ❗️ Opened issue [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-4. 🗣 Commented on [#6](https://github.com/JERScript/JERScript/issues/6) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-5. 🗣 Commented on [#6](https://github.com/JERScript/JERScript/issues/6) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+1. 🗣 Commented on [#8](https://github.com/JERScript/JERScript/issues/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+2. 🎉 Merged PR [#8](https://github.com/JERScript/JERScript/pull/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+3. ❗️ Closed issue [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+4. 🗣 Commented on [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+5. ❗️ Opened issue [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
 <!--END_SECTION:activity-->
 
 ## other stuff

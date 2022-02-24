@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/JERScript/JERScript/issues/9) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-2. 🎉 Merged PR [#9](https://github.com/JERScript/JERScript/pull/9) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-3. 🗣 Commented on [#8](https://github.com/JERScript/JERScript/issues/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-4. 🎉 Merged PR [#8](https://github.com/JERScript/JERScript/pull/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
-5. ❗️ Closed issue [#7](https://github.com/JERScript/JERScript/issues/7) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+1. 🎉 Merged PR [#1](https://github.com/lang-dump/minisembly/pull/1) in [lang-dump/minisembly](https://github.com/lang-dump/minisembly)
+2. 🗣 Commented on [#9](https://github.com/JERScript/JERScript/issues/9) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+3. 🎉 Merged PR [#9](https://github.com/JERScript/JERScript/pull/9) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+4. 🗣 Commented on [#8](https://github.com/JERScript/JERScript/issues/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
+5. 🎉 Merged PR [#8](https://github.com/JERScript/JERScript/pull/8) in [JERScript/JERScript](https://github.com/JERScript/JERScript)
 <!--END_SECTION:activity-->
 
 ## other stuff

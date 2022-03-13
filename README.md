@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/superboi211/ger/pull/1) in [superboi211/ger](https://github.com/superboi211/ger)
-2. ❗️ Opened issue [#1](https://github.com/conaticus/chrome-password-manager-extension/issues/1) in [conaticus/chrome-password-manager-extension](https://github.com/conaticus/chrome-password-manager-extension)
-3. 💪 Opened PR [#1](https://github.com/FissionFeline/discord-js-template/pull/1) in [FissionFeline/discord-js-template](https://github.com/FissionFeline/discord-js-template)
-4. ❗️ Closed issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
-5. 🗣 Commented on [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
+1. ❗️ Opened issue [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
+2. 💪 Opened PR [#1](https://github.com/superboi211/ger/pull/1) in [superboi211/ger](https://github.com/superboi211/ger)
+3. ❗️ Opened issue [#1](https://github.com/conaticus/chrome-password-manager-extension/issues/1) in [conaticus/chrome-password-manager-extension](https://github.com/conaticus/chrome-password-manager-extension)
+4. 💪 Opened PR [#1](https://github.com/FissionFeline/discord-js-template/pull/1) in [FissionFeline/discord-js-template](https://github.com/FissionFeline/discord-js-template)
+5. ❗️ Closed issue [#8](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers/issues/8) in [EclipseLikesSpace/The-Rules-For-Rulers](https://github.com/EclipseLikesSpace/The-Rules-For-Rulers)
 <!--END_SECTION:activity-->
 
 ## other stuff

@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/superboi211/ger/pull/2) in [superboi211/ger](https://github.com/superboi211/ger)
-2. ❗️ Opened issue [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
-3. 💪 Opened PR [#1](https://github.com/superboi211/ger/pull/1) in [superboi211/ger](https://github.com/superboi211/ger)
-4. ❗️ Opened issue [#1](https://github.com/conaticus/chrome-password-manager-extension/issues/1) in [conaticus/chrome-password-manager-extension](https://github.com/conaticus/chrome-password-manager-extension)
-5. 💪 Opened PR [#1](https://github.com/FissionFeline/discord-js-template/pull/1) in [FissionFeline/discord-js-template](https://github.com/FissionFeline/discord-js-template)
+1. ❗️ Closed issue [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
+2. 🗣 Commented on [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
+3. 💪 Opened PR [#2](https://github.com/superboi211/ger/pull/2) in [superboi211/ger](https://github.com/superboi211/ger)
+4. ❗️ Opened issue [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
+5. 💪 Opened PR [#1](https://github.com/superboi211/ger/pull/1) in [superboi211/ger](https://github.com/superboi211/ger)
 <!--END_SECTION:activity-->
 
 ## other stuff

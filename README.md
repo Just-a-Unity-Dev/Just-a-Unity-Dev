@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ArumLang/arumlang.github.io/pull/1) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-2. 🗣 Commented on [#1](https://github.com/ArumLang/arumlang.github.io/issues/1) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-3. ❗️ Closed issue [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
-4. 🗣 Commented on [#605](https://github.com/kach/nearley/issues/605) in [kach/nearley](https://github.com/kach/nearley)
-5. 💪 Opened PR [#2](https://github.com/superboi211/ger/pull/2) in [superboi211/ger](https://github.com/superboi211/ger)
+1. ❗️ Closed issue [#2](https://github.com/ArumLang/arumlang.github.io/issues/2) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
+2. 🗣 Commented on [#2](https://github.com/ArumLang/arumlang.github.io/issues/2) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
+3. ❗️ Closed issue [#3](https://github.com/ArumLang/arumlang.github.io/issues/3) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
+4. 🗣 Commented on [#3](https://github.com/ArumLang/arumlang.github.io/issues/3) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
+5. 🎉 Merged PR [#1](https://github.com/ArumLang/arumlang.github.io/pull/1) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
 <!--END_SECTION:activity-->
 
 ## other stuff

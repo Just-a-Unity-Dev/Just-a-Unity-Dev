@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/ArumLang/arumlang.github.io/issues/2) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-2. 🗣 Commented on [#2](https://github.com/ArumLang/arumlang.github.io/issues/2) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-3. ❗️ Closed issue [#3](https://github.com/ArumLang/arumlang.github.io/issues/3) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-4. 🗣 Commented on [#3](https://github.com/ArumLang/arumlang.github.io/issues/3) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
-5. 🎉 Merged PR [#1](https://github.com/ArumLang/arumlang.github.io/pull/1) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
+1. 🗣 Commented on [#6](https://github.com/ArumLang/Arum/issues/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+2. ❌ Closed PR [#6](https://github.com/ArumLang/Arum/pull/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+3. 🗣 Commented on [#4](https://github.com/ArumLang/Arum/issues/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+4. 🎉 Merged PR [#4](https://github.com/ArumLang/Arum/pull/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+5. ❗️ Closed issue [#2](https://github.com/ArumLang/arumlang.github.io/issues/2) in [ArumLang/arumlang.github.io](https://github.com/ArumLang/arumlang.github.io)
 <!--END_SECTION:activity-->
 
 ## other stuff

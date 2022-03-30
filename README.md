@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/iojanis/CraftOS/issues/15) in [iojanis/CraftOS](https://github.com/iojanis/CraftOS)
-2. 🗣 Commented on [#6](https://github.com/ArumLang/Arum/issues/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
-3. ❌ Closed PR [#6](https://github.com/ArumLang/Arum/pull/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
-4. 🗣 Commented on [#4](https://github.com/ArumLang/Arum/issues/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
-5. 🎉 Merged PR [#4](https://github.com/ArumLang/Arum/pull/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+1. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
+2. ❗️ Opened issue [#15](https://github.com/iojanis/CraftOS/issues/15) in [iojanis/CraftOS](https://github.com/iojanis/CraftOS)
+3. 🗣 Commented on [#6](https://github.com/ArumLang/Arum/issues/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+4. ❌ Closed PR [#6](https://github.com/ArumLang/Arum/pull/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+5. 🗣 Commented on [#4](https://github.com/ArumLang/Arum/issues/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
 <!--END_SECTION:activity-->
 
 ## other stuff

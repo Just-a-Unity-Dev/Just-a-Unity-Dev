@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-2. ❗️ Opened issue [#15](https://github.com/iojanis/CraftOS/issues/15) in [iojanis/CraftOS](https://github.com/iojanis/CraftOS)
-3. 🗣 Commented on [#6](https://github.com/ArumLang/Arum/issues/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
-4. ❌ Closed PR [#6](https://github.com/ArumLang/Arum/pull/6) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
-5. 🗣 Commented on [#4](https://github.com/ArumLang/Arum/issues/4) in [ArumLang/Arum](https://github.com/ArumLang/Arum)
+1. 🗣 Commented on [#2](https://github.com/Schematell/game/issues/2) in [Schematell/game](https://github.com/Schematell/game)
+2. ❗️ Opened issue [#2](https://github.com/Schematell/game/issues/2) in [Schematell/game](https://github.com/Schematell/game)
+3. 🗣 Commented on [#1](https://github.com/Schematell/game/issues/1) in [Schematell/game](https://github.com/Schematell/game)
+4. ❗️ Closed issue [#1](https://github.com/Schematell/game/issues/1) in [Schematell/game](https://github.com/Schematell/game)
+5. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
 <!--END_SECTION:activity-->
 
 ## other stuff

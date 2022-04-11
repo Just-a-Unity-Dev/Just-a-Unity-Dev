@@ -8,9 +8,9 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
 2. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#2092](https://github.com/is-a-dev/register/pull/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#2](https://github.com/Schematell/game/issues/2) in [Schematell/game](https://github.com/Schematell/game)
-5. ❗️ Opened issue [#2](https://github.com/Schematell/game/issues/2) in [Schematell/game](https://github.com/Schematell/game)
+3. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#2092](https://github.com/is-a-dev/register/pull/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#2](https://github.com/Schematell/game/issues/2) in [Schematell/game](https://github.com/Schematell/game)
 <!--END_SECTION:activity-->
 
 ## other stuff

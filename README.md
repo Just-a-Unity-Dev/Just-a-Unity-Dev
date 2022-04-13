@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/yushite/issues/1) in [Just-a-Unity-Dev/yushite](https://github.com/Just-a-Unity-Dev/yushite)
 2. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
 3. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
 4. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#2092](https://github.com/is-a-dev/register/pull/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## other stuff

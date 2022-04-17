@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/SpirusDev/Spirus/issues/2) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
-2. 🎉 Merged PR [#1](https://github.com/SpirusDev/Spirus/pull/1) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
-3. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-4. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/yushite/issues/1) in [Just-a-Unity-Dev/yushite](https://github.com/Just-a-Unity-Dev/yushite)
-5. 🗣 Commented on [#2092](https://github.com/is-a-dev/register/issues/2092) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🎉 Merged PR [#3](https://github.com/SpirusDev/Spirus/pull/3) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
+2. 💪 Opened PR [#3](https://github.com/SpirusDev/Spirus/pull/3) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
+3. ❗️ Opened issue [#2](https://github.com/SpirusDev/Spirus/issues/2) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
+4. 🎉 Merged PR [#1](https://github.com/SpirusDev/Spirus/pull/1) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
+5. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
 <!--END_SECTION:activity-->
 
 ## other stuff

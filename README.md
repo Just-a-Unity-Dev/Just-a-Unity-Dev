@@ -6,11 +6,11 @@ nice to meet you, i'm just-a-unity dev but I prefer to be called eclipse, i'm cu
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-2. 🗣 Commented on [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-3. ❗️ Opened issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-4. ❗️ Closed issue [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
-5. 🎉 Merged PR [#5](https://github.com/SpirusDev/Spirus/pull/5) in [SpirusDev/Spirus](https://github.com/SpirusDev/Spirus)
+1. 🗣 Commented on [#2189](https://github.com/jitpack/jitpack.io/issues/2189) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
+2. ❗️ Closed issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+3. 🗣 Commented on [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+4. ❗️ Opened issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+5. ❗️ Closed issue [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
 <!--END_SECTION:activity-->
 
 ## other stuff

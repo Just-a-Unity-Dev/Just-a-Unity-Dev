@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2189](https://github.com/jitpack/jitpack.io/issues/2189) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
-2. ❗️ Closed issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-3. 🗣 Commented on [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-4. ❗️ Opened issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
-5. ❗️ Closed issue [#9](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/9) in [Just-a-Unity-Dev/Just-a-Unity-Dev](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev)
+1. 🗣 Commented on [#3522](https://github.com/Anuken/Mindustry-Suggestions/issues/3522) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
+2. 🗣 Commented on [#2189](https://github.com/jitpack/jitpack.io/issues/2189) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
+3. ❗️ Closed issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+4. 🗣 Commented on [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
+5. ❗️ Opened issue [#6728](https://github.com/Anuken/Mindustry/issues/6728) in [Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 <!--END_SECTION:activity-->
 
 ## other stuff

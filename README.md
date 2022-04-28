@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/silicone-server/silicone-server/issues/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-2. ❗️ Opened issue [#3](https://github.com/silicone-server/silicone-server/issues/3) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-3. ❗️ Opened issue [#2](https://github.com/silicone-server/silicone-server/issues/2) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-4. 🗣 Commented on [#3522](https://github.com/Anuken/Mindustry-Suggestions/issues/3522) in [Anuken/Mindustry-Suggestions](https://github.com/Anuken/Mindustry-Suggestions)
-5. 🗣 Commented on [#2189](https://github.com/jitpack/jitpack.io/issues/2189) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
+1. 🎉 Merged PR [#1](https://github.com/silicone-server/silicone-server/pull/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+2. 🗣 Commented on [#1](https://github.com/silicone-server/silicone-server/issues/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+3. 🗣 Commented on [#1](https://github.com/silicone-server/silicone-server/issues/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+4. ❗️ Opened issue [#3](https://github.com/silicone-server/silicone-server/issues/3) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+5. ❗️ Opened issue [#2](https://github.com/silicone-server/silicone-server/issues/2) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
 <!--END_SECTION:activity-->
 
 ## other stuff

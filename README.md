@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
-2. ❌ Closed PR [#4](https://github.com/silicone-server/silicone-server/pull/4) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-3. 🗣 Commented on [#4](https://github.com/silicone-server/silicone-server/issues/4) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-4. 🎉 Merged PR [#1](https://github.com/silicone-server/silicone-server/pull/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
-5. 🗣 Commented on [#1](https://github.com/silicone-server/silicone-server/issues/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+1. 🗣 Commented on [#99](https://github.com/lunapaint/vscode-luna-paint/issues/99) in [lunapaint/vscode-luna-paint](https://github.com/lunapaint/vscode-luna-paint)
+2. ❗️ Opened issue [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+3. ❌ Closed PR [#4](https://github.com/silicone-server/silicone-server/pull/4) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+4. 🗣 Commented on [#4](https://github.com/silicone-server/silicone-server/issues/4) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
+5. 🎉 Merged PR [#1](https://github.com/silicone-server/silicone-server/pull/1) in [silicone-server/silicone-server](https://github.com/silicone-server/silicone-server)
 <!--END_SECTION:activity-->
 
 ## other stuff

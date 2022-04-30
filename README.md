@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/Just-a-Unity-Dev/Maluwag/issues/7) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-2. ❌ Closed PR [#6](https://github.com/Just-a-Unity-Dev/Maluwag/pull/6) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-3. 🗣 Commented on [#6](https://github.com/Just-a-Unity-Dev/Maluwag/issues/6) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-4. ❌ Closed PR [#5](https://github.com/Just-a-Unity-Dev/Maluwag/pull/5) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-5. 🗣 Commented on [#5](https://github.com/Just-a-Unity-Dev/Maluwag/issues/5) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
+1. ❌ Closed PR [#12](https://github.com/Just-a-Unity-Dev/Maluwag/pull/12) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
+2. 🎉 Merged PR [#11](https://github.com/Just-a-Unity-Dev/Maluwag/pull/11) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
+3. ❌ Closed PR [#10](https://github.com/Just-a-Unity-Dev/Maluwag/pull/10) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
+4. ❗️ Closed issue [#9](https://github.com/Just-a-Unity-Dev/Maluwag/issues/9) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
+5. 🗣 Commented on [#9](https://github.com/Just-a-Unity-Dev/Maluwag/issues/9) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
 <!--END_SECTION:activity-->
 
 ## other stuff

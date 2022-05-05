@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Just-a-Unity-Dev/atomdustry/issues/2) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
-2. 🗣 Commented on [#2](https://github.com/Just-a-Unity-Dev/atomdustry/issues/2) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
-3. 🎉 Merged PR [#13](https://github.com/Just-a-Unity-Dev/Maluwag/pull/13) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-4. 🗣 Commented on [#13](https://github.com/Just-a-Unity-Dev/Maluwag/issues/13) in [Just-a-Unity-Dev/Maluwag](https://github.com/Just-a-Unity-Dev/Maluwag)
-5. 🗣 Commented on [#1](https://github.com/Just-a-Unity-Dev/atomdustry/issues/1) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
+1. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+2. ❗️ Closed issue [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+3. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+4. ❗️ Closed issue [#2](https://github.com/Just-a-Unity-Dev/atomdustry/issues/2) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
+5. 🗣 Commented on [#2](https://github.com/Just-a-Unity-Dev/atomdustry/issues/2) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
 <!--END_SECTION:activity-->
 
 ## other stuff

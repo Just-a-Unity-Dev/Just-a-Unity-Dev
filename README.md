@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#103](https://github.com/Kieaer/Essentials/issues/103) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
-2. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
-3. ❗️ Closed issue [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
-4. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
-5. ❗️ Closed issue [#2](https://github.com/Just-a-Unity-Dev/atomdustry/issues/2) in [Just-a-Unity-Dev/atomdustry](https://github.com/Just-a-Unity-Dev/atomdustry)
+1. 🗣 Commented on [#103](https://github.com/Kieaer/Essentials/issues/103) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+2. ❗️ Opened issue [#103](https://github.com/Kieaer/Essentials/issues/103) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+3. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+4. ❗️ Closed issue [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
+5. 🗣 Commented on [#102](https://github.com/Kieaer/Essentials/issues/102) in [Kieaer/Essentials](https://github.com/Kieaer/Essentials)
 <!--END_SECTION:activity-->
 
 ## other stuff

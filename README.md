@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#16](https://github.com/VerdantGameOfficial/issues/issues/16) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-2. 🗣 Commented on [#16](https://github.com/VerdantGameOfficial/issues/issues/16) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-3. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-4. ❗️ Closed issue [#15](https://github.com/VerdantGameOfficial/issues/issues/15) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-5. 🗣 Commented on [#15](https://github.com/VerdantGameOfficial/issues/issues/15) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+1. ❗️ Reopened issue [#13](https://github.com/VerdantGameOfficial/issues/issues/13) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+2. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+3. ❗️ Closed issue [#16](https://github.com/VerdantGameOfficial/issues/issues/16) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+4. 🗣 Commented on [#16](https://github.com/VerdantGameOfficial/issues/issues/16) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+5. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 <!--END_SECTION:activity-->
 
 ## other stuff

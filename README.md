@@ -9,7 +9,7 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+1. 🗣 Commented on [#17](https://github.com/VerdantGameOfficial/issues/issues/17) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 2. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 3. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 4. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)

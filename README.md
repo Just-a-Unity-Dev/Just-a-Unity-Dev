@@ -13,7 +13,7 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 2. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 3. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 4. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-5. ❗️ Reopened issue [#13](https://github.com/VerdantGameOfficial/issues/issues/13) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+5. 🗣 Commented on [#14](https://github.com/VerdantGameOfficial/issues/issues/14) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
 <!--END_SECTION:activity-->
 
 ## other stuff

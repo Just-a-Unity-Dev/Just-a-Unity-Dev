@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8330](https://github.com/space-wizards/space-station-14/issues/8330) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#8305](https://github.com/space-wizards/space-station-14/issues/8305) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#22](https://github.com/VerdantGameOfficial/issues/issues/22) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
-4. ❗️ Opened issue [#1](https://github.com/4dMinerCommunity/.github/issues/1) in [4dMinerCommunity/.github](https://github.com/4dMinerCommunity/.github)
-5. 🗣 Commented on [#18](https://github.com/VerdantGameOfficial/issues/issues/18) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+1. 🗣 Commented on [#8353](https://github.com/space-wizards/space-station-14/issues/8353) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#8330](https://github.com/space-wizards/space-station-14/issues/8330) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#8305](https://github.com/space-wizards/space-station-14/issues/8305) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#22](https://github.com/VerdantGameOfficial/issues/issues/22) in [VerdantGameOfficial/issues](https://github.com/VerdantGameOfficial/issues)
+5. ❗️ Opened issue [#1](https://github.com/4dMinerCommunity/.github/issues/1) in [4dMinerCommunity/.github](https://github.com/4dMinerCommunity/.github)
 <!--END_SECTION:activity-->
 
 ## other stuff

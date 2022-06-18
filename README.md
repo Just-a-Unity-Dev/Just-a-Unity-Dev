@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8931](https://github.com/space-wizards/space-station-14/issues/8931) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#8930](https://github.com/space-wizards/space-station-14/issues/8930) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#8895](https://github.com/space-wizards/space-station-14/issues/8895) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 💪 Opened PR [#8874](https://github.com/space-wizards/space-station-14/pull/8874) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#8837](https://github.com/space-wizards/space-station-14/issues/8837) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. ❗️ Opened issue [#1](https://github.com/Spesships/Spesships/issues/1) in [Spesships/Spesships](https://github.com/Spesships/Spesships)
+2. 🗣 Commented on [#8931](https://github.com/space-wizards/space-station-14/issues/8931) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#8930](https://github.com/space-wizards/space-station-14/issues/8930) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#8895](https://github.com/space-wizards/space-station-14/issues/8895) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 💪 Opened PR [#8874](https://github.com/space-wizards/space-station-14/pull/8874) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ## other stuff

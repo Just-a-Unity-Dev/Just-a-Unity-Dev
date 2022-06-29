@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Spesships/Multitool/pull/2) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-2. 💪 Opened PR [#2](https://github.com/Spesships/Multitool/pull/2) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-3. 🎉 Merged PR [#1](https://github.com/Spesships/Multitool/pull/1) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-4. 💪 Opened PR [#1](https://github.com/Spesships/Multitool/pull/1) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-5. 🎉 Merged PR [#2](https://github.com/Spesships/Jailbreak-14/pull/2) in [Spesships/Jailbreak-14](https://github.com/Spesships/Jailbreak-14)
+1. 🎉 Merged PR [#3](https://github.com/Spesships/Multitool/pull/3) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
+2. 💪 Opened PR [#3](https://github.com/Spesships/Multitool/pull/3) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
+3. 🎉 Merged PR [#2](https://github.com/Spesships/Multitool/pull/2) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
+4. 💪 Opened PR [#2](https://github.com/Spesships/Multitool/pull/2) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
+5. 🎉 Merged PR [#1](https://github.com/Spesships/Multitool/pull/1) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
 <!--END_SECTION:activity-->
 
 ## other stuff

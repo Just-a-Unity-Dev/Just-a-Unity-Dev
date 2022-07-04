@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9410](https://github.com/space-wizards/space-station-14/issues/9410) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🎉 Merged PR [#8](https://github.com/Spesships/Multitool/pull/8) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-3. 💪 Opened PR [#8](https://github.com/Spesships/Multitool/pull/8) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
-4. 🗣 Commented on [#9402](https://github.com/space-wizards/space-station-14/issues/9402) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. ❗️ Opened issue [#9403](https://github.com/space-wizards/space-station-14/issues/9403) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#8501](https://github.com/space-wizards/space-station-14/issues/8501) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#8501](https://github.com/space-wizards/space-station-14/issues/8501) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#9410](https://github.com/space-wizards/space-station-14/issues/9410) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🎉 Merged PR [#8](https://github.com/Spesships/Multitool/pull/8) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
+5. 💪 Opened PR [#8](https://github.com/Spesships/Multitool/pull/8) in [Spesships/Multitool](https://github.com/Spesships/Multitool)
 <!--END_SECTION:activity-->
 
 ## other stuff

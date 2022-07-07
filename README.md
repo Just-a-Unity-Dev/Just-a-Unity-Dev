@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Spesships/Jailbreak-14/pull/3) in [Spesships/Jailbreak-14](https://github.com/Spesships/Jailbreak-14)
-2. 💪 Opened PR [#3](https://github.com/Spesships/Jailbreak-14/pull/3) in [Spesships/Jailbreak-14](https://github.com/Spesships/Jailbreak-14)
-3. 🗣 Commented on [#9472](https://github.com/space-wizards/space-station-14/issues/9472) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 🗣 Commented on [#9473](https://github.com/space-wizards/space-station-14/issues/9473) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#9433](https://github.com/space-wizards/space-station-14/issues/9433) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. ❗️ Opened issue [#9515](https://github.com/space-wizards/space-station-14/issues/9515) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🎉 Merged PR [#3](https://github.com/Spesships/Jailbreak-14/pull/3) in [Spesships/Jailbreak-14](https://github.com/Spesships/Jailbreak-14)
+3. 💪 Opened PR [#3](https://github.com/Spesships/Jailbreak-14/pull/3) in [Spesships/Jailbreak-14](https://github.com/Spesships/Jailbreak-14)
+4. 🗣 Commented on [#9472](https://github.com/space-wizards/space-station-14/issues/9472) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🗣 Commented on [#9473](https://github.com/space-wizards/space-station-14/issues/9473) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ## other stuff

@@ -9,10 +9,10 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
-2. ❌ Closed PR [#2](https://github.com/mirrorcult/ss14-fork-database/pull/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
-3. 🗣 Commented on [#9629](https://github.com/space-wizards/space-station-14/issues/9629) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+1. ❗️ Opened issue [#9642](https://github.com/space-wizards/space-station-14/issues/9642) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+3. ❌ Closed PR [#2](https://github.com/mirrorcult/ss14-fork-database/pull/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+4. 🗣 Commented on [#9629](https://github.com/space-wizards/space-station-14/issues/9629) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 5. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
 <!--END_SECTION:activity-->
 

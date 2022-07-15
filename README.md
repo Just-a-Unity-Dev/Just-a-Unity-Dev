@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9760](https://github.com/space-wizards/space-station-14/issues/9760) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. ❗️ Opened issue [#26](https://github.com/2G2C/2G2C/issues/26) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 2. 🗣 Commented on [#9760](https://github.com/space-wizards/space-station-14/issues/9760) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#15](https://github.com/Vault-Overseers/nuclear-14/issues/15) in [Vault-Overseers/nuclear-14](https://github.com/Vault-Overseers/nuclear-14)
-4. ❌ Closed PR [#9004](https://github.com/space-wizards/space-station-14/pull/9004) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#9004](https://github.com/space-wizards/space-station-14/issues/9004) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#9760](https://github.com/space-wizards/space-station-14/issues/9760) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#15](https://github.com/Vault-Overseers/nuclear-14/issues/15) in [Vault-Overseers/nuclear-14](https://github.com/Vault-Overseers/nuclear-14)
+5. ❌ Closed PR [#9004](https://github.com/space-wizards/space-station-14/pull/9004) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ## other stuff

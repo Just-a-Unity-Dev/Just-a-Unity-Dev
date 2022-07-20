@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/Vault-Overseers/nuclear-14/pull/19) in [Vault-Overseers/nuclear-14](https://github.com/Vault-Overseers/nuclear-14)
-2. 🗣 Commented on [#22](https://github.com/2G2C/2G2C/issues/22) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. 🎉 Merged PR [#37](https://github.com/2G2C/2G2C/pull/37) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. ❌ Closed PR [#33](https://github.com/2G2C/2G2C/pull/33) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-5. 🎉 Merged PR [#40](https://github.com/2G2C/2G2C/pull/40) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+1. ❗️ Opened issue [#43](https://github.com/2G2C/2G2C/issues/43) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+2. ❗️ Closed issue [#41](https://github.com/2G2C/2G2C/issues/41) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+3. 🗣 Commented on [#41](https://github.com/2G2C/2G2C/issues/41) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+4. 🎉 Merged PR [#42](https://github.com/2G2C/2G2C/pull/42) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 💪 Opened PR [#42](https://github.com/2G2C/2G2C/pull/42) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 <!--END_SECTION:activity-->
 
 ## other stuff

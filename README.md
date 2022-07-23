@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/2G2C/2G2C/pull/60) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-2. 💪 Opened PR [#60](https://github.com/2G2C/2G2C/pull/60) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. 🎉 Merged PR [#59](https://github.com/2G2C/2G2C/pull/59) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. 💪 Opened PR [#59](https://github.com/2G2C/2G2C/pull/59) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-5. 🗣 Commented on [#9969](https://github.com/space-wizards/space-station-14/issues/9969) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🎉 Merged PR [#61](https://github.com/2G2C/2G2C/pull/61) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+2. 💪 Opened PR [#61](https://github.com/2G2C/2G2C/pull/61) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+3. 🎉 Merged PR [#60](https://github.com/2G2C/2G2C/pull/60) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+4. 💪 Opened PR [#60](https://github.com/2G2C/2G2C/pull/60) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 🎉 Merged PR [#59](https://github.com/2G2C/2G2C/pull/59) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 <!--END_SECTION:activity-->
 
 ## other stuff

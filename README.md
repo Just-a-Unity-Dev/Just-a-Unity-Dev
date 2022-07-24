@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-2. ❌ Reopened PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. ❌ Closed PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. 💪 Opened PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-5. 🗣 Commented on [#64](https://github.com/2G2C/2G2C/issues/64) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+1. 🗣 Commented on [#279](https://github.com/Nyanotrasen/Nyanotrasen/issues/279) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+2. 🎉 Merged PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+3. ❌ Reopened PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+4. ❌ Closed PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 💪 Opened PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 <!--END_SECTION:activity-->
 
 ## other stuff

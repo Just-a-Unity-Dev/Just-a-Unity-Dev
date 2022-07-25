@@ -9,11 +9,11 @@ i've been attempting to change my GH username to eclips_e or eclips_e0001 but I'
 
 # git activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#279](https://github.com/Nyanotrasen/Nyanotrasen/issues/279) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-2. 🎉 Merged PR [#66](https://github.com/2G2C/2G2C/pull/66) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. 💪 Opened PR [#66](https://github.com/2G2C/2G2C/pull/66) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. 🗣 Commented on [#279](https://github.com/Nyanotrasen/Nyanotrasen/issues/279) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-5. 🎉 Merged PR [#65](https://github.com/2G2C/2G2C/pull/65) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+1. 🗣 Commented on [#288](https://github.com/Nyanotrasen/Nyanotrasen/issues/288) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+2. 💪 Opened PR [#288](https://github.com/Nyanotrasen/Nyanotrasen/pull/288) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+3. 🗣 Commented on [#279](https://github.com/Nyanotrasen/Nyanotrasen/issues/279) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+4. 🎉 Merged PR [#66](https://github.com/2G2C/2G2C/pull/66) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 💪 Opened PR [#66](https://github.com/2G2C/2G2C/pull/66) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 <!--END_SECTION:activity-->
 
 ## other stuff

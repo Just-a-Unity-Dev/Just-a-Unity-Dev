@@ -6,9 +6,9 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10070](https://github.com/space-wizards/space-station-14/issues/10070) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 💪 Opened PR [#303](https://github.com/Nyanotrasen/Nyanotrasen/pull/303) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-3. 🗣 Commented on [#302](https://github.com/Nyanotrasen/Nyanotrasen/issues/302) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+1. 🗣 Commented on [#10081](https://github.com/space-wizards/space-station-14/issues/10081) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#10070](https://github.com/space-wizards/space-station-14/issues/10070) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 💪 Opened PR [#303](https://github.com/Nyanotrasen/Nyanotrasen/pull/303) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
 4. 🗣 Commented on [#302](https://github.com/Nyanotrasen/Nyanotrasen/issues/302) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
 5. 🗣 Commented on [#302](https://github.com/Nyanotrasen/Nyanotrasen/issues/302) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
 <!--END_SECTION:activity-->

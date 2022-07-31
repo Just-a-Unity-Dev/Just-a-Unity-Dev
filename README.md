@@ -6,10 +6,10 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#319](https://github.com/Nyanotrasen/Nyanotrasen/issues/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-2. 💪 Opened PR [#319](https://github.com/Nyanotrasen/Nyanotrasen/pull/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-3. 💪 Opened PR [#67](https://github.com/2G2C/2G2C/pull/67) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. 🗣 Commented on [#10093](https://github.com/space-wizards/space-station-14/issues/10093) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#10193](https://github.com/space-wizards/space-station-14/issues/10193) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#319](https://github.com/Nyanotrasen/Nyanotrasen/issues/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+3. 💪 Opened PR [#319](https://github.com/Nyanotrasen/Nyanotrasen/pull/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
+4. 💪 Opened PR [#67](https://github.com/2G2C/2G2C/pull/67) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 5. 🗣 Commented on [#10093](https://github.com/space-wizards/space-station-14/issues/10093) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 

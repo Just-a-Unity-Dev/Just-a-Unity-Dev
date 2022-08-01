@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10205](https://github.com/space-wizards/space-station-14/issues/10205) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10193](https://github.com/space-wizards/space-station-14/issues/10193) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#319](https://github.com/Nyanotrasen/Nyanotrasen/issues/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-4. 💪 Opened PR [#319](https://github.com/Nyanotrasen/Nyanotrasen/pull/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
-5. 💪 Opened PR [#67](https://github.com/2G2C/2G2C/pull/67) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+1. 🗣 Commented on [#10210](https://github.com/space-wizards/space-station-14/issues/10210) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 💪 Opened PR [#23](https://github.com/Vault-Overseers/nuclear-14/pull/23) in [Vault-Overseers/nuclear-14](https://github.com/Vault-Overseers/nuclear-14)
+3. 🗣 Commented on [#10205](https://github.com/space-wizards/space-station-14/issues/10205) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#10193](https://github.com/space-wizards/space-station-14/issues/10193) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🗣 Commented on [#319](https://github.com/Nyanotrasen/Nyanotrasen/issues/319) in [Nyanotrasen/Nyanotrasen](https://github.com/Nyanotrasen/Nyanotrasen)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

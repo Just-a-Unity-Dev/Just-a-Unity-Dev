@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10269](https://github.com/space-wizards/space-station-14/issues/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. ❌ Closed PR [#67](https://github.com/2G2C/2G2C/pull/67) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. 🎉 Merged PR [#68](https://github.com/2G2C/2G2C/pull/68) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-4. 💪 Opened PR [#68](https://github.com/2G2C/2G2C/pull/68) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-5. 💪 Opened PR [#20](https://github.com/moonheart08/outer-rim-14/pull/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+1. 🗣 Commented on [#21](https://github.com/moonheart08/outer-rim-14/issues/21) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+2. 💪 Opened PR [#21](https://github.com/moonheart08/outer-rim-14/pull/21) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+3. 🗣 Commented on [#10269](https://github.com/space-wizards/space-station-14/issues/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. ❌ Closed PR [#67](https://github.com/2G2C/2G2C/pull/67) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 🎉 Merged PR [#68](https://github.com/2G2C/2G2C/pull/68) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

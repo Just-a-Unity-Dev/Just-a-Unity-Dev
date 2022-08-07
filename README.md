@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10395](https://github.com/space-wizards/space-station-14/issues/10395) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#8674](https://github.com/space-wizards/space-station-14/issues/8674) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/UnityScripts/issues/1) in [Just-a-Unity-Dev/UnityScripts](https://github.com/Just-a-Unity-Dev/UnityScripts)
-4. 🗣 Commented on [#10362](https://github.com/space-wizards/space-station-14/issues/10362) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#21](https://github.com/moonheart08/outer-rim-14/issues/21) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+1. ❗️ Closed issue [#10243](https://github.com/space-wizards/space-station-14/issues/10243) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#10243](https://github.com/space-wizards/space-station-14/issues/10243) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#8674](https://github.com/space-wizards/space-station-14/issues/8674) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#10395](https://github.com/space-wizards/space-station-14/issues/10395) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🗣 Commented on [#8674](https://github.com/space-wizards/space-station-14/issues/8674) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/2G2C/nanotrasen-simulator/pull/3) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-2. 💪 Opened PR [#3](https://github.com/2G2C/nanotrasen-simulator/pull/3) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-3. 🎉 Merged PR [#2](https://github.com/2G2C/nanotrasen-simulator/pull/2) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-4. 🎉 Merged PR [#1](https://github.com/2G2C/nanotrasen-simulator/pull/1) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-5. 🗣 Commented on [#1](https://github.com/2G2C/nanotrasen-simulator/issues/1) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+1. 🎉 Merged PR [#5](https://github.com/2G2C/nanotrasen-simulator/pull/5) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+2. 🗣 Commented on [#5](https://github.com/2G2C/nanotrasen-simulator/issues/5) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+3. 🗣 Commented on [#4](https://github.com/2G2C/nanotrasen-simulator/issues/4) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+4. 🎉 Merged PR [#4](https://github.com/2G2C/nanotrasen-simulator/pull/4) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+5. 💪 Opened PR [#5](https://github.com/2G2C/nanotrasen-simulator/pull/5) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

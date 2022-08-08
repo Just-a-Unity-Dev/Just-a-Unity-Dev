@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10416](https://github.com/space-wizards/space-station-14/issues/10416) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10395](https://github.com/space-wizards/space-station-14/issues/10395) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#10401](https://github.com/space-wizards/space-station-14/issues/10401) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. ❗️ Closed issue [#10243](https://github.com/space-wizards/space-station-14/issues/10243) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#10243](https://github.com/space-wizards/space-station-14/issues/10243) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🎉 Merged PR [#2](https://github.com/2G2C/nanotrasen-simulator/pull/2) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+2. 🎉 Merged PR [#1](https://github.com/2G2C/nanotrasen-simulator/pull/1) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+3. 🗣 Commented on [#1](https://github.com/2G2C/nanotrasen-simulator/issues/1) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+4. 💪 Opened PR [#2](https://github.com/2G2C/nanotrasen-simulator/pull/2) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+5. 🗣 Commented on [#10416](https://github.com/space-wizards/space-station-14/issues/10416) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

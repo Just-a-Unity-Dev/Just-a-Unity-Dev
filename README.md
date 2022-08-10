@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/2G2C/nanotrasen-simulator/issues/30) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-2. 🗣 Commented on [#29](https://github.com/2G2C/nanotrasen-simulator/issues/29) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-3. ❗️ Opened issue [#29](https://github.com/2G2C/nanotrasen-simulator/issues/29) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-4. ❗️ Opened issue [#28](https://github.com/2G2C/nanotrasen-simulator/issues/28) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-5. ❗️ Opened issue [#27](https://github.com/2G2C/nanotrasen-simulator/issues/27) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+1. ❗️ Opened issue [#32](https://github.com/2G2C/nanotrasen-simulator/issues/32) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+2. ❗️ Opened issue [#31](https://github.com/2G2C/nanotrasen-simulator/issues/31) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+3. ❗️ Opened issue [#30](https://github.com/2G2C/nanotrasen-simulator/issues/30) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+4. 🗣 Commented on [#29](https://github.com/2G2C/nanotrasen-simulator/issues/29) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+5. ❗️ Opened issue [#29](https://github.com/2G2C/nanotrasen-simulator/issues/29) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

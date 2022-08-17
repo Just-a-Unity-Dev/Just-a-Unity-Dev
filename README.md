@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10618](https://github.com/space-wizards/space-station-14/issues/10618) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 💪 Opened PR [#45](https://github.com/2G2C/nanotrasen-simulator/pull/45) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-3. 🗣 Commented on [#37](https://github.com/2G2C/nanotrasen-simulator/issues/37) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-4. ❗️ Closed issue [#37](https://github.com/2G2C/nanotrasen-simulator/issues/37) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
-5. 🎉 Merged PR [#44](https://github.com/2G2C/nanotrasen-simulator/pull/44) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
+1. 🗣 Commented on [#22](https://github.com/moonheart08/outer-rim-14/issues/22) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+2. ❌ Closed PR [#20](https://github.com/moonheart08/outer-rim-14/pull/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+3. 🗣 Commented on [#20](https://github.com/moonheart08/outer-rim-14/issues/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+4. 🗣 Commented on [#10618](https://github.com/space-wizards/space-station-14/issues/10618) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 💪 Opened PR [#45](https://github.com/2G2C/nanotrasen-simulator/pull/45) in [2G2C/nanotrasen-simulator](https://github.com/2G2C/nanotrasen-simulator)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

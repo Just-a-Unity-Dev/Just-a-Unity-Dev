@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#10269](https://github.com/space-wizards/space-station-14/pull/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10269](https://github.com/space-wizards/space-station-14/issues/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#22](https://github.com/moonheart08/outer-rim-14/issues/22) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
-4. ❌ Closed PR [#20](https://github.com/moonheart08/outer-rim-14/pull/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
-5. 🗣 Commented on [#20](https://github.com/moonheart08/outer-rim-14/issues/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+1. 🗣 Commented on [#8495](https://github.com/space-wizards/space-station-14/issues/8495) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. ❌ Closed PR [#10269](https://github.com/space-wizards/space-station-14/pull/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#10269](https://github.com/space-wizards/space-station-14/issues/10269) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#22](https://github.com/moonheart08/outer-rim-14/issues/22) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
+5. ❌ Closed PR [#20](https://github.com/moonheart08/outer-rim-14/pull/20) in [moonheart08/outer-rim-14](https://github.com/moonheart08/outer-rim-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

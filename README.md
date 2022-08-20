@@ -6,10 +6,10 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/2G2C/2G2C/pull/69) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-2. 💪 Opened PR [#69](https://github.com/2G2C/2G2C/pull/69) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
-3. 🗣 Commented on [#10679](https://github.com/space-wizards/space-station-14/issues/10679) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 🗣 Commented on [#8495](https://github.com/space-wizards/space-station-14/issues/8495) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#9261](https://github.com/space-wizards/space-station-14/issues/9261) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🎉 Merged PR [#69](https://github.com/2G2C/2G2C/pull/69) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+3. 💪 Opened PR [#69](https://github.com/2G2C/2G2C/pull/69) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+4. 🗣 Commented on [#10679](https://github.com/space-wizards/space-station-14/issues/10679) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 5. 🗣 Commented on [#8495](https://github.com/space-wizards/space-station-14/issues/8495) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 

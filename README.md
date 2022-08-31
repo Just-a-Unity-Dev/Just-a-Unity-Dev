@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10944](https://github.com/space-wizards/space-station-14/issues/10944) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10835](https://github.com/space-wizards/space-station-14/issues/10835) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. ❗️ Opened issue [#10946](https://github.com/space-wizards/space-station-14/issues/10946) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#10944](https://github.com/space-wizards/space-station-14/issues/10944) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 3. 🗣 Commented on [#10835](https://github.com/space-wizards/space-station-14/issues/10835) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 4. 🗣 Commented on [#10835](https://github.com/space-wizards/space-station-14/issues/10835) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. ❗️ Closed issue [#38](https://github.com/2G2C/2G2C/issues/38) in [2G2C/2G2C](https://github.com/2G2C/2G2C)
+5. 🗣 Commented on [#10835](https://github.com/space-wizards/space-station-14/issues/10835) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

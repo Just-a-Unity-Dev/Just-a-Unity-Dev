@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10960](https://github.com/space-wizards/space-station-14/pull/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10953](https://github.com/space-wizards/space-station-14/issues/10953) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 💪 Opened PR [#10960](https://github.com/space-wizards/space-station-14/pull/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 3. 🗣 Commented on [#10953](https://github.com/space-wizards/space-station-14/issues/10953) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 💪 Opened PR [#10953](https://github.com/space-wizards/space-station-14/pull/10953) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#10946](https://github.com/space-wizards/space-station-14/issues/10946) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#10953](https://github.com/space-wizards/space-station-14/issues/10953) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 💪 Opened PR [#10953](https://github.com/space-wizards/space-station-14/pull/10953) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

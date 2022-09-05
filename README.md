@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/2G2C/frigid/pull/6) in [2G2C/frigid](https://github.com/2G2C/frigid)
-2. 🎉 Merged PR [#4](https://github.com/2G2C/frigid/pull/4) in [2G2C/frigid](https://github.com/2G2C/frigid)
-3. ❗️ Opened issue [#5](https://github.com/2G2C/frigid/issues/5) in [2G2C/frigid](https://github.com/2G2C/frigid)
-4. 💪 Opened PR [#4](https://github.com/2G2C/frigid/pull/4) in [2G2C/frigid](https://github.com/2G2C/frigid)
-5. 🎉 Merged PR [#3](https://github.com/2G2C/frigid/pull/3) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 🎉 Merged PR [#6](https://github.com/2G2C/frigid/pull/6) in [2G2C/frigid](https://github.com/2G2C/frigid)
+2. 💪 Opened PR [#6](https://github.com/2G2C/frigid/pull/6) in [2G2C/frigid](https://github.com/2G2C/frigid)
+3. 🎉 Merged PR [#4](https://github.com/2G2C/frigid/pull/4) in [2G2C/frigid](https://github.com/2G2C/frigid)
+4. ❗️ Opened issue [#5](https://github.com/2G2C/frigid/issues/5) in [2G2C/frigid](https://github.com/2G2C/frigid)
+5. 💪 Opened PR [#4](https://github.com/2G2C/frigid/pull/4) in [2G2C/frigid](https://github.com/2G2C/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

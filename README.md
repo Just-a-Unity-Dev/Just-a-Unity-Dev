@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/mirrorcult/ss14-fork-database/pull/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
-2. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
-3. 🎉 Merged PR [#19](https://github.com/2G2C/frigid/pull/19) in [2G2C/frigid](https://github.com/2G2C/frigid)
-4. 💪 Opened PR [#19](https://github.com/2G2C/frigid/pull/19) in [2G2C/frigid](https://github.com/2G2C/frigid)
-5. 🎉 Merged PR [#18](https://github.com/2G2C/frigid/pull/18) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 💪 Opened PR [#3](https://github.com/mirrorcult/ss14-fork-database/pull/3) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+2. ❌ Closed PR [#2](https://github.com/mirrorcult/ss14-fork-database/pull/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+3. 🗣 Commented on [#2](https://github.com/mirrorcult/ss14-fork-database/issues/2) in [mirrorcult/ss14-fork-database](https://github.com/mirrorcult/ss14-fork-database)
+4. 🎉 Merged PR [#19](https://github.com/2G2C/frigid/pull/19) in [2G2C/frigid](https://github.com/2G2C/frigid)
+5. 💪 Opened PR [#19](https://github.com/2G2C/frigid/pull/19) in [2G2C/frigid](https://github.com/2G2C/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

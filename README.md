@@ -6,10 +6,10 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/2G2C/frigid/pull/26) in [2G2C/frigid](https://github.com/2G2C/frigid)
-2. 💪 Opened PR [#26](https://github.com/2G2C/frigid/pull/26) in [2G2C/frigid](https://github.com/2G2C/frigid)
-3. 🗣 Commented on [#25](https://github.com/2G2C/frigid/issues/25) in [2G2C/frigid](https://github.com/2G2C/frigid)
-4. 🎉 Merged PR [#25](https://github.com/2G2C/frigid/pull/25) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 🗣 Commented on [#27](https://github.com/2G2C/frigid/issues/27) in [2G2C/frigid](https://github.com/2G2C/frigid)
+2. 💪 Opened PR [#27](https://github.com/2G2C/frigid/pull/27) in [2G2C/frigid](https://github.com/2G2C/frigid)
+3. 🎉 Merged PR [#26](https://github.com/2G2C/frigid/pull/26) in [2G2C/frigid](https://github.com/2G2C/frigid)
+4. 💪 Opened PR [#26](https://github.com/2G2C/frigid/pull/26) in [2G2C/frigid](https://github.com/2G2C/frigid)
 5. 🗣 Commented on [#25](https://github.com/2G2C/frigid/issues/25) in [2G2C/frigid](https://github.com/2G2C/frigid)
 <!--END_SECTION:activity-->
 

@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/2G2C/frigid/pull/30) in [2G2C/frigid](https://github.com/2G2C/frigid)
-2. 💪 Opened PR [#30](https://github.com/2G2C/frigid/pull/30) in [2G2C/frigid](https://github.com/2G2C/frigid)
-3. ❌ Closed PR [#27](https://github.com/2G2C/frigid/pull/27) in [2G2C/frigid](https://github.com/2G2C/frigid)
-4. 🗣 Commented on [#27](https://github.com/2G2C/frigid/issues/27) in [2G2C/frigid](https://github.com/2G2C/frigid)
-5. 🎉 Merged PR [#29](https://github.com/2G2C/frigid/pull/29) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 💪 Opened PR [#31](https://github.com/2G2C/frigid/pull/31) in [2G2C/frigid](https://github.com/2G2C/frigid)
+2. 🗣 Commented on [#11214](https://github.com/space-wizards/space-station-14/issues/11214) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#11214](https://github.com/space-wizards/space-station-14/issues/11214) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🎉 Merged PR [#30](https://github.com/2G2C/frigid/pull/30) in [2G2C/frigid](https://github.com/2G2C/frigid)
+5. 💪 Opened PR [#30](https://github.com/2G2C/frigid/pull/30) in [2G2C/frigid](https://github.com/2G2C/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

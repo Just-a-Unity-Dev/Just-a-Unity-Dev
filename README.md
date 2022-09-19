@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
-2. 🗣 Commented on [#11408](https://github.com/space-wizards/space-station-14/issues/11408) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🗣 Commented on [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. ❗️ Opened issue [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. ❗️ Opened issue [#11285](https://github.com/space-wizards/space-station-14/issues/11285) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. ❗️ Closed issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+2. 🎉 Merged PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+3. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+4. 🗣 Commented on [#313](https://github.com/tomassedovic/tcod-rs/issues/313) in [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs)
+5. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

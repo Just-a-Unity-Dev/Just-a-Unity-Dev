@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. ❗️ Opened issue [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. ❗️ Opened issue [#11285](https://github.com/space-wizards/space-station-14/issues/11285) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 🎉 Merged PR [#34](https://github.com/2G2C/frigid/pull/34) in [2G2C/frigid](https://github.com/2G2C/frigid)
-5. 💪 Opened PR [#34](https://github.com/2G2C/frigid/pull/34) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 🗣 Commented on [#11408](https://github.com/space-wizards/space-station-14/issues/11408) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. ❗️ Opened issue [#11323](https://github.com/space-wizards/space-station-14/issues/11323) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. ❗️ Opened issue [#11285](https://github.com/space-wizards/space-station-14/issues/11285) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🎉 Merged PR [#34](https://github.com/2G2C/frigid/pull/34) in [2G2C/frigid](https://github.com/2G2C/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

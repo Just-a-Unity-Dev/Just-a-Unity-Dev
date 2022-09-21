@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
-2. 🎉 Merged PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
-3. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
-4. 🗣 Commented on [#313](https://github.com/tomassedovic/tcod-rs/issues/313) in [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs)
-5. ❗️ Opened issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+1. ❗️ Opened issue [#1](https://github.com/NorthStation/northbot/issues/1) in [NorthStation/northbot](https://github.com/NorthStation/northbot)
+2. ❗️ Closed issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+3. 🎉 Merged PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+4. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+5. 🗣 Commented on [#313](https://github.com/tomassedovic/tcod-rs/issues/313) in [tomassedovic/tcod-rs](https://github.com/tomassedovic/tcod-rs)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

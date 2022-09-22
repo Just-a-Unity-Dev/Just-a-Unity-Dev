@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11450](https://github.com/space-wizards/space-station-14/issues/11450) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#11445](https://github.com/space-wizards/space-station-14/issues/11445) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. ❗️ Opened issue [#1](https://github.com/NorthStation/northbot/issues/1) in [NorthStation/northbot](https://github.com/NorthStation/northbot)
-4. ❗️ Closed issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
-5. 🎉 Merged PR [#2](https://github.com/Just-a-Unity-Dev/aeros/pull/2) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
+1. 🗣 Commented on [#1](https://github.com/NorthStation/northbot/issues/1) in [NorthStation/northbot](https://github.com/NorthStation/northbot)
+2. ❗️ Opened issue [#11450](https://github.com/space-wizards/space-station-14/issues/11450) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#11445](https://github.com/space-wizards/space-station-14/issues/11445) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. ❗️ Opened issue [#1](https://github.com/NorthStation/northbot/issues/1) in [NorthStation/northbot](https://github.com/NorthStation/northbot)
+5. ❗️ Closed issue [#1](https://github.com/Just-a-Unity-Dev/aeros/issues/1) in [Just-a-Unity-Dev/aeros](https://github.com/Just-a-Unity-Dev/aeros)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

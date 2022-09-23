@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/2G2C/frigid/pull/35) in [2G2C/frigid](https://github.com/2G2C/frigid)
-2. 💪 Opened PR [#35](https://github.com/2G2C/frigid/pull/35) in [2G2C/frigid](https://github.com/2G2C/frigid)
-3. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/eclips-e.space/pull/1) in [Just-a-Unity-Dev/eclips-e.space](https://github.com/Just-a-Unity-Dev/eclips-e.space)
-4. 💪 Opened PR [#1](https://github.com/Just-a-Unity-Dev/eclips-e.space/pull/1) in [Just-a-Unity-Dev/eclips-e.space](https://github.com/Just-a-Unity-Dev/eclips-e.space)
-5. 🗣 Commented on [#1](https://github.com/NorthStation/northbot/issues/1) in [NorthStation/northbot](https://github.com/NorthStation/northbot)
+1. 💪 Opened PR [#36](https://github.com/2G2C/frigid/pull/36) in [2G2C/frigid](https://github.com/2G2C/frigid)
+2. 🎉 Merged PR [#35](https://github.com/2G2C/frigid/pull/35) in [2G2C/frigid](https://github.com/2G2C/frigid)
+3. 💪 Opened PR [#35](https://github.com/2G2C/frigid/pull/35) in [2G2C/frigid](https://github.com/2G2C/frigid)
+4. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/eclips-e.space/pull/1) in [Just-a-Unity-Dev/eclips-e.space](https://github.com/Just-a-Unity-Dev/eclips-e.space)
+5. 💪 Opened PR [#1](https://github.com/Just-a-Unity-Dev/eclips-e.space/pull/1) in [Just-a-Unity-Dev/eclips-e.space](https://github.com/Just-a-Unity-Dev/eclips-e.space)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/2G2C/frigid/issues/52) in [2G2C/frigid](https://github.com/2G2C/frigid)
-2. ❗️ Opened issue [#51](https://github.com/2G2C/frigid/issues/51) in [2G2C/frigid](https://github.com/2G2C/frigid)
-3. ❗️ Opened issue [#50](https://github.com/2G2C/frigid/issues/50) in [2G2C/frigid](https://github.com/2G2C/frigid)
-4. ❗️ Opened issue [#11483](https://github.com/space-wizards/space-station-14/issues/11483) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. ❗️ Opened issue [#49](https://github.com/2G2C/frigid/issues/49) in [2G2C/frigid](https://github.com/2G2C/frigid)
+1. 💪 Opened PR [#53](https://github.com/2G2C/frigid/pull/53) in [2G2C/frigid](https://github.com/2G2C/frigid)
+2. ❗️ Opened issue [#52](https://github.com/2G2C/frigid/issues/52) in [2G2C/frigid](https://github.com/2G2C/frigid)
+3. ❗️ Opened issue [#51](https://github.com/2G2C/frigid/issues/51) in [2G2C/frigid](https://github.com/2G2C/frigid)
+4. ❗️ Opened issue [#50](https://github.com/2G2C/frigid/issues/50) in [2G2C/frigid](https://github.com/2G2C/frigid)
+5. ❗️ Opened issue [#11483](https://github.com/space-wizards/space-station-14/issues/11483) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

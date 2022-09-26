@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/frigid14/frigid/pull/66) in [frigid14/frigid](https://github.com/frigid14/frigid)
-2. 🎉 Merged PR [#64](https://github.com/frigid14/frigid/pull/64) in [frigid14/frigid](https://github.com/frigid14/frigid)
-3. 🎉 Merged PR [#65](https://github.com/frigid14/frigid/pull/65) in [frigid14/frigid](https://github.com/frigid14/frigid)
-4. 💪 Opened PR [#65](https://github.com/frigid14/frigid/pull/65) in [frigid14/frigid](https://github.com/frigid14/frigid)
-5. 💪 Opened PR [#64](https://github.com/frigid14/frigid/pull/64) in [frigid14/frigid](https://github.com/frigid14/frigid)
+1. 🎉 Merged PR [#67](https://github.com/frigid14/frigid/pull/67) in [frigid14/frigid](https://github.com/frigid14/frigid)
+2. ❗️ Closed issue [#59](https://github.com/frigid14/frigid/issues/59) in [frigid14/frigid](https://github.com/frigid14/frigid)
+3. 💪 Opened PR [#67](https://github.com/frigid14/frigid/pull/67) in [frigid14/frigid](https://github.com/frigid14/frigid)
+4. 💪 Opened PR [#66](https://github.com/frigid14/frigid/pull/66) in [frigid14/frigid](https://github.com/frigid14/frigid)
+5. 🎉 Merged PR [#64](https://github.com/frigid14/frigid/pull/64) in [frigid14/frigid](https://github.com/frigid14/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

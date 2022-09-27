@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#72](https://github.com/frigid14/frigid/pull/72) in [frigid14/frigid](https://github.com/frigid14/frigid)
-2. 💪 Opened PR [#72](https://github.com/frigid14/frigid/pull/72) in [frigid14/frigid](https://github.com/frigid14/frigid)
-3. 🎉 Merged PR [#71](https://github.com/frigid14/frigid/pull/71) in [frigid14/frigid](https://github.com/frigid14/frigid)
-4. 💪 Opened PR [#71](https://github.com/frigid14/frigid/pull/71) in [frigid14/frigid](https://github.com/frigid14/frigid)
-5. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#11553](https://github.com/space-wizards/space-station-14/issues/11553) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🎉 Merged PR [#72](https://github.com/frigid14/frigid/pull/72) in [frigid14/frigid](https://github.com/frigid14/frigid)
+3. 💪 Opened PR [#72](https://github.com/frigid14/frigid/pull/72) in [frigid14/frigid](https://github.com/frigid14/frigid)
+4. 🎉 Merged PR [#71](https://github.com/frigid14/frigid/pull/71) in [frigid14/frigid](https://github.com/frigid14/frigid)
+5. 💪 Opened PR [#71](https://github.com/frigid14/frigid/pull/71) in [frigid14/frigid](https://github.com/frigid14/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

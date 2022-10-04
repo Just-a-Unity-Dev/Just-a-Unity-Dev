@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11632](https://github.com/space-wizards/space-station-14/issues/11632) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#11656](https://github.com/space-wizards/space-station-14/issues/11656) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. ❌ Closed PR [#45](https://github.com/frigid14/nanotrasen-simulator/pull/45) in [frigid14/nanotrasen-simulator](https://github.com/frigid14/nanotrasen-simulator)
-4. 🗣 Commented on [#45](https://github.com/frigid14/nanotrasen-simulator/issues/45) in [frigid14/nanotrasen-simulator](https://github.com/frigid14/nanotrasen-simulator)
-5. 🎉 Merged PR [#77](https://github.com/frigid14/frigid/pull/77) in [frigid14/frigid](https://github.com/frigid14/frigid)
+1. 🎉 Merged PR [#78](https://github.com/frigid14/frigid/pull/78) in [frigid14/frigid](https://github.com/frigid14/frigid)
+2. 🗣 Commented on [#11632](https://github.com/space-wizards/space-station-14/issues/11632) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🗣 Commented on [#11656](https://github.com/space-wizards/space-station-14/issues/11656) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. ❌ Closed PR [#45](https://github.com/frigid14/nanotrasen-simulator/pull/45) in [frigid14/nanotrasen-simulator](https://github.com/frigid14/nanotrasen-simulator)
+5. 🗣 Commented on [#45](https://github.com/frigid14/nanotrasen-simulator/issues/45) in [frigid14/nanotrasen-simulator](https://github.com/frigid14/nanotrasen-simulator)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

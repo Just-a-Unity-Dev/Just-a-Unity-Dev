@@ -7,10 +7,10 @@ i code shit, thats about it
 # stuff
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
-3. 💪 Opened PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
-4. 🎉 Merged PR [#78](https://github.com/frigid14/frigid/pull/78) in [frigid14/frigid](https://github.com/frigid14/frigid)
-5. 🗣 Commented on [#11632](https://github.com/space-wizards/space-station-14/issues/11632) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
+4. 💪 Opened PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
+5. 🎉 Merged PR [#78](https://github.com/frigid14/frigid/pull/78) in [frigid14/frigid](https://github.com/frigid14/frigid)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

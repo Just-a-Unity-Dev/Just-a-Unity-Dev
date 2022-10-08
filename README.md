@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
-4. 💪 Opened PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
-5. 🎉 Merged PR [#78](https://github.com/frigid14/frigid/pull/78) in [frigid14/frigid](https://github.com/frigid14/frigid)
+1. 🎉 Merged PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
+2. 💪 Opened PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
+3. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+4. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🎉 Merged PR [#1](https://github.com/Just-a-Unity-Dev/quikskript/pull/1) in [Just-a-Unity-Dev/quikskript](https://github.com/Just-a-Unity-Dev/quikskript)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

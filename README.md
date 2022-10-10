@@ -6,10 +6,10 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 🎉 Merged PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
-3. 💪 Opened PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
-4. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+1. 🗣 Commented on [#11821](https://github.com/space-wizards/space-station-14/issues/11821) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+2. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 🎉 Merged PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
+4. 💪 Opened PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
 5. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 

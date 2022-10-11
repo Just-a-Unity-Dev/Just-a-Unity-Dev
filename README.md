@@ -1,16 +1,10 @@
 # hi
-i code shit, thats about it
+hi there please call me eclipse or rain or jauv or whatever
 
-[sign my guest book! please!](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/new?&body=Sign%20my%20guest%20book%20by%20placing%20your%20name%20in%20the%20title,%20how%27d%20you%20get%20to%20this%20page%20and%20why?%20Don%27t%20forget%20you%20have%20an%20entire%20notebook%20in%20your%20hands!)
+my [website](eclips-e.space) explains more about me than this github readme
 
+i code in both frontend and backend, and love both highlevel and lowlevel languages such as js/ts, rust, C#, C, C++, nim
 
-# stuff
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Just-a-Unity-Dev/astrionics/issues/3) in [Just-a-Unity-Dev/astrionics](https://github.com/Just-a-Unity-Dev/astrionics)
-2. 🗣 Commented on [#11837](https://github.com/space-wizards/space-station-14/issues/11837) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-3. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/astrionics/pull/2) in [Just-a-Unity-Dev/astrionics](https://github.com/Just-a-Unity-Dev/astrionics)
-4. 🗣 Commented on [#11821](https://github.com/space-wizards/space-station-14/issues/11821) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-<!--END_SECTION:activity-->
+yea thats all you need to know about me
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=monokai)

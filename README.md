@@ -6,11 +6,11 @@ i code shit, thats about it
 
 # stuff
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11837](https://github.com/space-wizards/space-station-14/issues/11837) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-2. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/astrionics/pull/2) in [Just-a-Unity-Dev/astrionics](https://github.com/Just-a-Unity-Dev/astrionics)
-3. 🗣 Commented on [#11821](https://github.com/space-wizards/space-station-14/issues/11821) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-4. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
-5. 🎉 Merged PR [#1](https://github.com/JaurenTauri-Studios/astrionics/pull/1) in [JaurenTauri-Studios/astrionics](https://github.com/JaurenTauri-Studios/astrionics)
+1. ❗️ Opened issue [#3](https://github.com/Just-a-Unity-Dev/astrionics/issues/3) in [Just-a-Unity-Dev/astrionics](https://github.com/Just-a-Unity-Dev/astrionics)
+2. 🗣 Commented on [#11837](https://github.com/space-wizards/space-station-14/issues/11837) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+3. 💪 Opened PR [#2](https://github.com/Just-a-Unity-Dev/astrionics/pull/2) in [Just-a-Unity-Dev/astrionics](https://github.com/Just-a-Unity-Dev/astrionics)
+4. 🗣 Commented on [#11821](https://github.com/space-wizards/space-station-14/issues/11821) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
+5. 🗣 Commented on [#10960](https://github.com/space-wizards/space-station-14/issues/10960) in [space-wizards/space-station-14](https://github.com/space-wizards/space-station-14)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just-a-Unity-Dev&theme=solarized_dark)

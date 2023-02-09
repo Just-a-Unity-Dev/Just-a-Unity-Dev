@@ -1,9 +1,7 @@
 # hi
 hi there please call me eclipse or rain or jauv or whatever
 
-my [website](eclips-e.space) explains more about me than this github readme
-
-i code in both frontend and backend, and love both highlevel and lowlevel languages such as js/ts, rust, C#, C, C++, nim
+i code in whatever i want + amateury sysadmin
 
 yea thats all you need to know about me
 

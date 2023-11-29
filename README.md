@@ -13,4 +13,4 @@ and finally yes i play games such as D&D, Lancer, Traveller, etc. i also play KS
 
 feel free to [sign my guestbook here](https://github.com/Just-a-Unity-Dev/Just-a-Unity-Dev/issues/new?&body=sign%20my%20guest%20book%20by%20placing%20your%20name%20in%20the%20title,%20how%27d%20you%20get%20to%20this%20page%20and%20why?%20Don%27t%20forget%20you%20have%20an%20entire%20notebook%20in%20your%20hands!)
 
-**yes my old account on discord was disabled, you can use `raincaldwell` instead**
+**yes my old account on discord was disabled, you can use `eclips_e69` instead**

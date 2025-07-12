@@ -1,5 +1,5 @@
 # hi
-![](raimn.png)
+<img src="raimn.png" width=150></img>
 
 hi there!! im rain. i obsess and enjoy writing stories for games, and i like making stuff. i enjoy complicated strategy games.
 
